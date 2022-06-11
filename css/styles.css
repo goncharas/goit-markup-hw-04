@@ -118,6 +118,8 @@ body {
     color: var(--primary-text-color);
     padding-top: 32px;
     padding-bottom: 32px;
+    display: flex;
+    align-items: center;
 }
 .contact-link:hover,
 .contact-link:focus {
