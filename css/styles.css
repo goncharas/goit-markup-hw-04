@@ -103,6 +103,7 @@ body {
 }
 .contact-link-icon {
     fill: currentColor;
+    margin-right: 10px;
 }
 /*-------------------Heder contact--------------------*/
 .contact-list {
