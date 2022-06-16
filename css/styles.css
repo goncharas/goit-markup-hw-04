@@ -352,6 +352,7 @@ body {
     align-items: center;
     justify-content: center;
     color: #afb1b8;
+    outline: transparent;
 }
 
 .clients-link:hover,
